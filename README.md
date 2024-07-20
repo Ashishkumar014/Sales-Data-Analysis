@@ -28,13 +28,13 @@ These consumers exhibit a higher propensity to engage in purchasing activities w
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/consumer-behavior-analysis.git
+    git clone https://github.com/Ashishkumar014/Sales-Data-Analysis.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```sh
-    cd consumer-behavior-analysis
+    cd Sales-Data-Analysis
     ```
 
 3. **Set up the environment:**
